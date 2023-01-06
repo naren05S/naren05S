@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as Software Developer 
 - 🌱 I’m currently learning Flutter Web
-- 🤔 I’m looking for help with VelocityX
+- 🤔 I’m looking for help with Go lang
 - 💬 Ask me about Flutter and Web
 - 📫 How to reach me: LinkedIn @naren05S
  [enter link description here](https://www.linkedin.com/in/narendra-shekhawat-0b346a143/) 
