@@ -23,13 +23,13 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    -->
 
-<a href="https://github.com/naren05S">
+<!-- <a href="https://github.com/naren05S">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naren05S&theme=dark&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/naren05S">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=naren05S&show_icons=true&theme=dark&line_height=27%22%20" alt="Narendra's github stats"/>
-</a>
+</a> -->
 
 
 <div align="center">
